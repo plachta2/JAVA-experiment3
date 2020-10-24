@@ -63,7 +63,7 @@ Course course = null;
 >在之前提到的所有主类代码，写入一个while循环，并设置一个新的变量flag，初始化为1。`while (flag == 1) {`开始循环，当用户在一开始执行程序时，如果选择3（即为退出程序），flag则会赋值为0，则不会进行下一次循环，直接退出。
 
 # 流程图
-<WPS篇幅限制原因，未能全部详细画出，大体流程如下
+>WPS篇幅限制原因，未能全部详细画出，大体流程如下
 ![流程图](https://github.com/plachta2/JAVA-experiment3/raw/main/流程图.png)
 
 # 核心代码
